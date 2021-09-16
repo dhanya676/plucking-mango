@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\AngryBirdsStage3.5"
+		},
+		{
+			"path": "..\\..\\AngryBirdsStage4-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project-C28-template-main"
+	}
+}
